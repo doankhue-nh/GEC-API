@@ -1,7 +1,3 @@
-# ALLECS: A Lightweight Language Error Correction System (gec-api)
-
-This module contains the modified code of [GECToR](https://github.com/grammarly/gector/tree/fea1532608) and a wrapper code of T5 model.
-
 ## Installation
 1. Clone the repository.
 2. Set up a virtual environment (Python >=3.6).
